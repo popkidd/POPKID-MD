@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : ` *WELCOME TO NJUBA MD SUPPORTIVE LINKS,,, THANK YOU FOR CHOOSING *NJUBA MD BOT*\n\n𓄂 *WAGROUP*\nhttps://chat.whatsapp.com/LQhSrYvT3o37205SuKGak4\n\n𓄂 *WACHANNEL*\n✇`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : ` *WELCOME TO NJUBA MD SUPPORTIVE LINKS,,, THANK YOU FOR CHOOSING *NJUBA MD BOT*\n\n𓄂 *WAGROUP*\nhttps://chat.whatsapp.com/LQhSrYvT3o37205SuKGak4\n\n𓄂 *WACHANNEL*\n✇https://whatsapp.com/channel/0029VaZDD8S2UPBDHMF7rq3C\n\n\n*powered by Njuba Tech*`},{quoted :ms})
 
 })
 
