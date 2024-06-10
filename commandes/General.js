@@ -55,8 +55,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Djalega++", numero: "22559763447" },
-      { nom: "᚛M๏𝓷keℽ D Lบffy᚜", numero: "22891733300" },
+      { nom: "Developer Njuba", numero: "256766763966" },
+      { nom: "Allan Njuba", numero: "256742477536" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
@@ -95,7 +95,7 @@ zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOpti
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
   repondre("look on pm sir ")
-  await zk.sendMessage(auteurMessage,{text : `https://chat.whatsapp.com/H6oeuhfSMtV1Orjmf2NVnl`},{quoted :ms})
+  await zk.sendMessage(auteurMessage,{text : ` *WELCOME TO NJUBA MD SUPPORTIVE LINKS,,, THANK YOU FOR CHOOSING *NJUBA MD BOT*\n\n𓄂 *WAGROUP*\nhttps://chat.whatsapp.com/LQhSrYvT3o37205SuKGak4\n\n𓄂 *WACHANNEL*\n✇`},{quoted :ms})
 
 })
 
