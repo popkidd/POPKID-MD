@@ -1,42 +1,22 @@
-# Zokou-2.0
+# NJUBA MD V1.0.0 
 
+## Get NJUBA MD
 
-
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
-
-## Key Features
-
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
-
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
-
-## Get Zokou
-
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Allan-developer/Njubamd/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
+   [Session-1](https://beltahmd-sessions-ce114587ed6a.herokuapp.com/pair) ; <br>
 
 
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Allan-developer/Njubamd) to deploy the bot on **Heroku**.
 
 ## Contributions
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to NJUBA are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thinks to these persons ;
 
