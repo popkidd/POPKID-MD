@@ -1,5 +1,8 @@
 # NJUBA MD V1.0.0 
 
+| [![NJUBA TECH](https://telegra.ph/file/f973f613f64dc019d3a0d.jpg?lenght=50width=50)](https://github.com/Allan-developer)|
+|----|
+
 ## Get NJUBA MD
 
 1. Click on **[Fork](https://github.com/Allan-developer/Njubamd/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
