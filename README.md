@@ -9,13 +9,14 @@
 
 2. Obtain a bot session: 
 
-   [Session-1](https://beltahmd-sessions-ce114587ed6a.herokuapp.com/pair) ; <br>
+   [Session-1](https://pair-bel-tah-b427bf12d2e2.herokuapp.com/pair) ; <br>
 
 
 3. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Allan-developer/Njubamd) to deploy the bot on **Heroku**.
+
+     2. CLICK  [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Allan-developer/Njubamd) TO DEPLOY THE BOT ON **HEROKU**.
 
 ## Contributions
 
