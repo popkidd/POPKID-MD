@@ -8,7 +8,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "menu2", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -34,21 +34,21 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╔═══★★│ ${s.BOT} │★★════╗
-│▓╔═══════════
+╔═══★★│ *${s.BOT}* │★★════╗
+│▓┌────────···▸
 │▓│▸ *Owner* : ${s.OWNER_NAME}
 │▓│▸ *Creator* :Beltah Tech
-│▓╚══════════════╝
-│▓╔═══════════
+│▓└────────────···▸
+│▓┌────────···▸
 │▓│▸ *Mode* : ${mode}
 │▓│▸ *Commands* : 245
 │▓│▸ *Date* : ${date}
 │▓│▸ *Time* : ${temps}
-│▓╚════════════
+│▓└─────────···▸
 │▓│▸ *Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │▓│▸ *Platform* : ${os.platform()}
 │▓│▸ *Theme* : *SCENE-MD*
-│▓╚══════════════╝
+│▓└───────────────···▸
 ╚══════ ▓▓ ࿇ ▓▓ ══════╝
 > SCENE-MD BOT BY BELTAH
 > 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇${readmore} \n`;
@@ -62,13 +62,11 @@ let menuMsg = `
         menuMsg += `╔═══❏ ${cat} ❏══╗`;
         for (const cmd of coms[cat]) {
             menuMsg += `          
-│❒┌────────···▸
-│❒│
-│❒│  ${cmd}
-│❒│    
-│❒└───────────────···▸`;
-           } 
-        menuMsg += `
+│❒┌─────···▸
+│❒│  ${cmd}`    
+        } 
+        menuMsg +=`
+│❒└────────···▸;            
 ╚════════════════╝\n`
     }
   
