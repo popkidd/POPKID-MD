@@ -1,5 +1,5 @@
 {
-  "name": "zokou-2.0",
+  "name": "scene-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -12,12 +12,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Zokou",
+    "scene",
     "whatsapp",
     "whatsapp-bot",
-    "Faouz995"
+    "zokou"
   ],
-  "author": "Faouz995",
+  "author": "Beltah",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -64,6 +64,6 @@
     "youtube-yts": "^2.0.0",
     "youtubedl-core": "^4.11.7",
     "yt-search": "^2.10.4",
-    "ytdl-core": "^4.10.0"
+    "ytdl-core": "github:soya-daizu/ytdl-core#sig-patch"
   }
 }
