@@ -171,8 +171,8 @@ setTimeout(() => {
                 console.log("message from : " + nomGroupe);
             }
             console.log("message from : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
-            console.log("type de message : " + mtype);
-            console.log("------ message ------");
+            console.log("type of message : " + mtype);
+            console.log("------end of your messages ------");
             console.log(texte);
             /**  */
             function groupeAdmin(membreGroupe) {
@@ -855,12 +855,10 @@ ${metadata.desc}\n\n> POWERED BY BELTAH TECH TEAM.`;
                 if((conf.DP).toLowerCase() === 'yes') {     
                 let cmsg = `*SCENE MD IS RUNNING...*
     
-    
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
     Total Command : ${evt.cm.length}
-    Owner : Beltah Tech 254 🇰🇪
-    
+    Owner : Beltah Tech 254 🇰🇪  
 
 > THANK YOU FOR LOVING SCENE-MD.\n`;
                 await zk.sendMessage("254114141192@s.whatsapp.net", { text: cmsg });
