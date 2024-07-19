@@ -40,7 +40,6 @@ const date = moment().format('DD/MM/YYYY');
 │▓│▸ *Creator* :Beltah Tech
 │▓╚══════════════╝
 │▓╔═══════════
-│▓│▸ *User* : ${nomAuteurMessage} 
 │▓│▸ *Mode* : ${mode}
 │▓│▸ *Commands* : 245
 │▓│▸ *Date* : ${date}
