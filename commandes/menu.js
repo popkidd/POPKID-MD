@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
 │▓╚══════════════╝
 ╚══════ ▓▓ ࿇ ▓▓ ══════╝
 > SCENE-MD BOT BY BELTAH
-> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇${readmore}\n\n`;
+> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇${readmore} \n`;
     
 let menuMsg = `
 ╔════ ▓▓ ࿇ ▓▓ ════╗
@@ -61,15 +61,17 @@ let menuMsg = `
     for (const cat in coms) {
         menuMsg += `╔═══❏ ${cat} ❏══╗`;
         for (const cmd of coms[cat]) {
-            menuMsg += `
-  ╔═══════
-│❒ ${cmd}`;
-        }
+            menuMsg += `          
+│❒┌────────···▸
+│❒│
+│❒│  ${cmd}
+│❒│    
+│❒└───────────────···▸`;
+           } 
         menuMsg += `
-  ╚════════
 ╚════════════════╝\n`
     }
-
+  
     menuMsg += `
 ╔═══════
 > *SCENE-MD BOT* © 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪
