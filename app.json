@@ -1,20 +1,20 @@
 {
-  "name": "Zokou-2.0",
-  "description": "bot whatsapp développé par djalega++",
+  "name": "SCENE-MD",
+  "description": "SCENE-MD was developed by Beltah.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://raw.githubusercontent.com/djalega8000/Zokou-2.0/main/Zokou.jpg",
-  "repository": "https://github.com/djalega8000/Zokou-2.0",
+  "logo": "https://telegra.ph/file/305827be2080296d1ab2d.jpg",
+  "repository": "https://github.com/Airforce254/SCENE-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": "#",
+      "value": "+",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "SCENE-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://i.pinimg.com/736x/0a/70/6f/0a706f90d6a1fb39919aedfbb7fdd8d3.jpg",
+      "value": "https://telegra.ph/file/305827be2080296d1ab2d.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "BELTAH TECH"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "254114141192"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -87,13 +87,13 @@
     },
     "ANTI_DELETE_MESSAGE": {
       "description": "if you want to enable anti delete message put yes else put no",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "PM_CHATBOT": {
       "description": "Put yes if you want the bot to automatically respond to messages in private",
       "required": false,
-      "value": "no"
+      "value": "yes"
     }
   },
   "formation": {
