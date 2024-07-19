@@ -32,44 +32,47 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────✧NJUBA MD BOT✧────◆
-│   *Préfix* : ${s.PREFIXE}
-│   *Owner* : ${s.OWNER_NAME}
-│   *Mode* : ${mode}
-│   *Commands* : ${cm.length}
-│   *Date* : ${date}
-│   *Hour* : ${temps}
-│   *Mémoire* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│   *Plateforme* : ${os.platform()}
-│   *Développer* : *ALLAN NJUBA*
-╰─────✧WA-BOT✧─────◆ \n\n`;
+╔═══★★│ ${s.BOT} │★★════╗
+│▓╔═══════════
+│▓│▸ *Owner* : ${s.OWNER_NAME}
+│▓│▸ *Creator* :Beltah Tech
+│▓╚══════════════╝
+│▓╔═══════════
+│▓│▸ *User* : ${nomAuteurMessage} 
+│▓│▸ *Mode* : ${mode}
+│▓│▸ *Commands* : 245
+│▓│▸ *Date* : ${date}
+│▓│▸ *Time* : ${temps}
+│▓╚════════════
+│▓│▸ *Memory* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
+│▓│▸ *Platform* : ${os.platform()}
+│▓│▸ *Theme* : *SCENE-MD*
+│▓╚══════════════╝
+╚══════ ▓▓ ࿇ ▓▓ ══════╝
+> SCENE-MD BOT BY BELTAH
+> 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇${readmore}\n\n`;
     
 let menuMsg = `
-👋 Hello ${nomAuteurMessage} 👋
-
-*List of commands :*
-◇                             ◇
+╔════ ▓▓ ࿇ ▓▓ ════╗
+   *SCENE-MD BOT COMMANDS*
 `;
 
     for (const cat in coms) {
-        menuMsg += `╭────❏ ${cat} ❏`;
+        menuMsg += `╔═══❏ ${cat} ❏══╗`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│ ${cmd}`;
+  ╔═══════
+│❒ ${cmd}`;
         }
         menuMsg += `
-╰═════════════⊷ \n`
+  ╚════════
+╚════════════════╝ \n`
     }
 
     menuMsg += `
-◇            ◇
-*»»————— ★ —————««*
-"To use a command, insert ${prefixe} followed by the command_name."
- 
-    Powered by NJUBA-MD
-                                                
-*»»————— ★ —————««*
-`;
+╔═══════
+> *SCENE-MD BOT* © 𝐁𝐞𝐥𝐭𝐚𝐡 𝐓𝐞𝐜𝐡 𝟐𝟓𝟒🇰🇪
+╚═════ ▓▓ ࿇ ▓▓ ═════╝`;
 
    var lien = mybotpic();
 
