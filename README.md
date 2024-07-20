@@ -1,7 +1,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-## BELTAH-MD-V7 ♻️ 
+## SCENE-MD BY BELTAH
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BELTAH+MD+V7;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=SCENE+MD+;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
   </p>
 <div align="center">
 
@@ -9,7 +9,7 @@
 |----|
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD-V7+Is+Safe+on+Heroku" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SCENE-MD+100%+Is+Safe+on+Heroku" alt="">
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
@@ -26,19 +26,22 @@
 <a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>## `INSTALLATION METHODS`🛠️
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+</a>
+
+## `INSTALLATION METHODS`🛠️
 
 1. Fork the repo
     <br>
-<a href='https://github.com/ibrahimaitech/BARAKA-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Airforce254/SCENE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 2. Get session id by (SCANNING QR1)
     <br>
-<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://scene-md-7602095f55a2.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-2. Get session id by (PAIRING CODE2)
+2. Get session id by (PAIRING CODE)
     <br>
-<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://scene-md-7602095f55a2.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -55,13 +58,21 @@
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?template=https://github.com/Barakabega/BARAKA-MD-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Airforce254/SCENE-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot SCENE-MD to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](h# NJUBA MD V1.0.0 ## Developers:
+The WhatsApp Bot Scene is released under the [MIT License]
 
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
+# SCENE-MD Developers:
+
+- [**Beltah Tech**](https://github.com/Beltahtech)
+- [**Beltah**](https://github.com/Airforce254)
+
+
+
+
+
+©SCENE-MD BOT BY BELTAH-TECH254 ♻️ 
