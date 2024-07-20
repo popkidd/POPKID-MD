@@ -168,7 +168,7 @@ setTimeout(() => {
             console.log("\t [][]...{Scene-Md}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
-                console.log("message from : " + nomGroupe);
+                console.log("message sent from : " + nomGroupe);
             }
             console.log("message from : " + "[" + nomAuteurMessage + " : " + auteurMessage.split("@s.whatsapp.net")[0] + " ]");
             console.log("type of message : " + mtype);
@@ -853,7 +853,7 @@ ${metadata.desc}\n\n> POWERED BY BELTAH TECH TEAM.`;
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `SCENE MD IS RUNNING NOW...
+                let cmsg = `★ SCENE MD IS RUNNING NOW ★
     
     Prefix : [ ${prefixe} ]
     Mode :${md} mode
@@ -861,7 +861,7 @@ ${metadata.desc}\n\n> POWERED BY BELTAH TECH TEAM.`;
     Owner : Beltah Tech 254 🇰🇪  
 
 > THANK YOU FOR LOVING SCENE-MD.\n`;
-                await zk.sendMessage("254114141192@s.whatsapp.net", { text: cmsg });
+                await zk.sendMessage( zk.user.id, { text: cmsg });
                 }
             }
             else if (connection == "close") {
