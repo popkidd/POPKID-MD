@@ -1,4 +1,4 @@
-.enc "use strict";
+"use strict";
 
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
@@ -57,17 +57,6 @@ zokou({ nomCom: "scene", reaction: "🤖", nomFichier: __filename }, async (dest
 });
 console.log("mon test");
 
-zokou({ nomCom: "g*y", reaction: "🏳️‍🌈", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-    console.log("Commande saisie !!!s");
-    let z = ' *F*CK MEHN,,, THIS GUY IS G*Y🏳️‍🌈🏳️‍🌈🏳️‍🌈🏳️‍🌈*\n';
-    let d = 'WHY WOULD YOU REQUEST THAT COMMAND IF NOT';
-    let varmess = z + d;
-    var img = 'https://telegra.ph/file/5d4c27c77b240483e7b05.png';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
-    //console.log("montest")
-});
-console.log("mon test");
-
 zokou({ nomCom: "check", reaction: "🗿", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = ' *SCENE-MD UPDATES*\n\n';
@@ -85,17 +74,6 @@ zokou({ nomCom: "version", reaction: "⏳", nomFichier: __filename }, async (des
     let d = '✅latest version installed...';
     let varmess = z + d;
     var img = 'https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg';
-    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
-    //console.log("montest")
-});
-console.log("mon test");
-
-zokou({ nomCom: "bugmenu", reaction: "🐛", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-    console.log("Commande saisie !!!s");
-    let z = '┌─❒ *SCENE-MD BUG MENU* ⁠⁠⁠⁠❒⁠⁠⁠\n│╭─────────────···\n┴│▸\n⬡│▸ ʙᴜɢ\n⬡│▸ ʙᴜɢᴠ\n⬡│▸ ʙᴜɢʀᴇᴀᴄᴛ\n⬡│▸ ᴀᴜᴅɪᴏʙᴜɢ\n⬡│▸ ɪᴏꜱʙᴜɢ\n⬡│▸ ɪᴏꜱʙᴜɢᴠ\n┬│▸\n│╰────────────···▸▸\n';
-    let d = '└───────────────···▸';
-    let varmess = z + d;
-    var img = 'https://telegra.ph/file/305827be2080296d1ab2d.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });
