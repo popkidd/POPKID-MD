@@ -1,41 +1,67 @@
-# NJUBA MD V1.0.0 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+## BELTAH-MD-V7 ♻️ 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=BELTAH+MD+V7;A+WHATSAPP+BOT;CREATED+BY+BELTAH+TECH" alt="Typing SVG" /></a>
+  </p>
+<div align="center">
 
-| [![NJUBA TECH](https://telegra.ph/file/f973f613f64dc019d3a0d.jpg?lenght=50width=50)](https://github.com/Allan-developer)|
+| [![Beltah KE](https://telegra.ph/file/dcce2ddee6cc7597c859a.jpg?lenght=50width=50)](https://github.com/Beltahtech)|
 |----|
 
-## Get NJUBA MD
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=BELTAH-MD-V7+Is+Safe+on+Heroku" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-BELTAH TECH-red.svg?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Beltah-MD? tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Beltahtech?label=Followers&style=social"></a>
+<a href="https://github.com/Beltahtech/Beltah-Bot/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Beltahtech/Beltah-Bot?&style=social"></a>
+<a href="https://github.com/Beltahtech/Beltah-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Beltahtech/Beltah-Bot?style=social"></a>
+<a href="https://github.com/Beltatech/Beltah-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Beltahtech/Beltah-Bot?label=Watching&style=social"></a>
 
-1. Click on **[Fork](https://github.com/Allan-developer/Njubamd/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+  ## MUST FOLLOW OUR OFFICIAL CHANNEL
+<a href="https://whatsapp.com/channel/0029VaRHDBKKmCPKp9B2uH2F" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>## `INSTALLATION METHODS`🛠️
 
-2. Obtain a bot session: 
+1. Fork the repo
+    <br>
+<a href='https://github.com/ibrahimaitech/BARAKA-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
-   [Session-1](https://pair-bel-tah-b427bf12d2e2.herokuapp.com/pair) ; <br>
+2. Get session id by (SCANNING QR1)
+    <br>
+<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Get session id by (PAIRING CODE2)
+    <br>
+<a href='https://baraka-md-code3-05ea03f5fe2c.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-3. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
 
-     2. CLICK  [**HERE**](https://dashboard.heroku.com/new?template=https://github.com/Allan-developer/Njubamd) TO DEPLOY THE BOT ON **HEROKU**.
 
-## Contributions
 
-Contributions to NJUBA are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
-   thinks to these persons ;
+#### DEPLOY TO HEROKU 
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-   **CrazyPrice** who hosted a second website for the session_id;
 
-## License
 
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
+2. Now Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Barakabega/BARAKA-MD-V3' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
 
-## Developers:
+## License
+
+The WhatsApp Bot Zokou is released under the [MIT License](h# NJUBA MD V1.0.0 ## Developers:
 
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
