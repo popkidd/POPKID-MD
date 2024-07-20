@@ -33,15 +33,15 @@
 
 1. Fork the repo
     <br>
-<a href='https://github.com/Airforce254/SCENE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Airforce254/SCENE-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 2. Get session id by (SCANNING QR1)
     <br>
-<a href='https://scene-md-7602095f55a2.herokuapp.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://sessions-beltahmd-20vq.onrender.com/qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=yellow'/></a>
 
 2. Get session id by (PAIRING CODE)
     <br>
-<a href='https://scene-md-7602095f55a2.herokuapp.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://sessions-beltahmd-20vq.onrender.com/pair' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
