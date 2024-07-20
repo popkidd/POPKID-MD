@@ -25,7 +25,7 @@ const releaseDate = new Date(data.created_at).toLocaleDateString('en-GB');
 const gitdata = `Hello, This is *SCENE-MD*, It is a Multidevice Whatsapp User Bot created safely by Beltah.\n
 
 __________________________________
-I Have been given [  ${repoInfo.stars}. ] stars on my repo and a total of[ ${repoInfo.forks} ] Users have deployed me upto date.\n\n
+I Have been given [  ${repoInfo.stars}. ] stars on my repo and a total of[ ${repoInfo.forks} ] Users have deployed me upto date.\n
 __________________________________
   *KEEP LOVING SCENE-MD* `;
 
