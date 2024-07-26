@@ -1,14 +1,14 @@
 {
-  "name": "SCENE-MD",
-  "description": "SCENE-MD was developed by Beltah.",
+  "name": "POPKID-MD",
+  "description": "POPKID-MD was developed by POPKID.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://telegra.ph/file/305827be2080296d1ab2d.jpg",
-  "repository": "https://github.com/Airforce254/SCENE-MD",
+  "logo": "https://telegra.ph/file/29ad5348203648a5ebad9.jpg",
+  "repository": "https://github.com/popkidd/POPKID-MD",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -34,12 +34,12 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "SCENE-MD",
+      "value": "POPKID-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
       "description": "add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value": "https://telegra.ph/file/305827be2080296d1ab2d.jpg",
+      "value": "https://telegra.ph/file/29ad5348203648a5ebad9.jpg",
       "required": false
     },
     "PUBLIC_MODE": {
@@ -65,12 +65,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "BELTAH TECH"
+      "value": "POPKID TECH"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254114141192"
+      "value": "254111385747"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
