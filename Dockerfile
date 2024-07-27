@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/Airforce254/SCENE-MD  /root/Zokou_BOt
+RUN git clone https://github.com/popkidd/POPKID-MD  /root/Zokou_BOt
 WORKDIR /root/Zokou_Bot/
 
 
